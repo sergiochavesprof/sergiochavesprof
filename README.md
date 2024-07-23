@@ -9,4 +9,5 @@ Trabalho na EE IE Fernando Costa em Presidente Prudente - SP.
 sergiochaves@prof.educacao.sp.gov.br
 
 
+
 <img width="50" alt="frida png" src="https://github.com/user-attachments/assets/f063ea7f-8c4c-4dc5-a0b6-d37c513d09cf">
